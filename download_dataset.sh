@@ -1,10 +1,8 @@
 #!/bin/bash
 
-# Tes identifiants Kaggle (constantes)
-KAGGLE_USERNAME="aymaneismail"
-KAGGLE_KEY="afb11a143ae8c8ca2eb6cff5ae8e582d"
+KAGGLE_USERNAME="KAGGLE_USERNAME"  
+KAGGLE_KEY="KAGGLE_KEY"
 
-# URL du dataset
 DATASET_URL="https://www.kaggle.com/api/v1/datasets/download/pavankrishnanarne/global-stock-market-2008-present"
 
 mkdir -p data
